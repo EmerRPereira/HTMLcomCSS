@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(200, 150, 200);
+    text-align: center;
+}
+
+h1, h2, h3 {
+    background-color:wheat;
+}
+
+p {
+    font-size: 40px;
+}
+
+b {
+    color:#FF0000;
+}
+
+i {
+    color:#50FF90;
+}
